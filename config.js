@@ -19,6 +19,9 @@ window.GAME_CONFIG = {
   creditLink: { label: "パチスロサミットONLINE", url: "https://www.pachislot-summit.com/model/" },
   creditTail: "の機種一覧と フリック7 (flick7.net) のメーカー公表値を元にしています。",
 
+  // --- 投げ銭リンク（フッター）。不要なら null ---
+  support: { label: "☕ 開発者を応援する", url: "", note: "サイトの維持・データ更新の励みになります" },
+
   // --- ルール ---
   soloMax: 10,               // ひとりで遊ぶの回数制限
   maxPlayers: 4,             // 対戦の最大人数

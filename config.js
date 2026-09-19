@@ -20,7 +20,7 @@ window.GAME_CONFIG = {
   creditTail: "の機種一覧と フリック7 (flick7.net) のメーカー公表値を元にしています。",
 
   // --- 投げ銭リンク（フッター）。不要なら null ---
-  support: { label: "☕ 開発者を応援する", url: "", note: "サイトの維持・データ更新の励みになります" },
+  support: { label: "☕ OFUSEで開発者を応援する", url: "https://ofuse.me/ea96441a", note: "サイトの維持・データ更新の励みになります" },
 
   // --- ルール ---
   soloMax: 10,               // ひとりで遊ぶの回数制限
